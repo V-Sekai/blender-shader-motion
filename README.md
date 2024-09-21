@@ -1,4 +1,4 @@
-# blender_shader_motion_devon
+# blender-shader-motion
 
 \<@Aury> @ₗᵧᵤₘₐ          𝓛𝔂𝓾𝓶𝓪 Here's a blend with the modifier, my awful scripts (i cleaned them up mildly, but they're still pretty bad), and short writeup on how you might get a different avatar in if you want to go for a ride using my bad code.
 
